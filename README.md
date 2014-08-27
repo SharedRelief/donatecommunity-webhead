@@ -1,11 +1,9 @@
-Puppet DonateCommunity Webhead
+DonateCommunity Docker Webhead
 ==============================
 
-Configures the DonateCommunity web server with Puppet
+Docker container containing the DonateCommunity webhead
 
-### ALPHA
-
-Currently installs the [API](https://github.com/SharedRelief/puppet-donatecommunity-api) locally due to a cut corner (Development TODO item)
+### BETA
 
 License & Authors
 -----------------
@@ -13,7 +11,7 @@ License & Authors
 - Author: Tom Noonan II (TJNII)
 
 ```
-Copyright:: 2014 Adrian DeBarros
+Copyright:: 2014 Adrian DeBarros, Tom Noonan II
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
